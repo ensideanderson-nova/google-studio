@@ -1,0 +1,8 @@
+{
+  "name": "3 ESPECIALISTA-IA Master Evolution",
+  "description": "A high-performance command center and intelligent agent interface for system monitoring, automated task execution, and deep knowledge retrieval.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

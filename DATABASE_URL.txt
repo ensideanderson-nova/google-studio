@@ -1,0 +1,5 @@
+# CONFIGURAÇÃO DE PERSISTÊNCIA NEURAL
+DATABASE_TYPE: PostgreSQL (Evolution API Internal)
+HOST: evolution-postgres (Internal Render Cluster)
+REDIS_PORT: 6379 (Local Memory Cache)
+SCHEMA: public
